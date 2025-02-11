@@ -1,4 +1,4 @@
-Entity,Code,Year,World Bank's income classification
+Country,CODE_ISO,Year,World Bank's income classification
 Afghanistan,AFG,1987,Low-income countries
 Afghanistan,AFG,1988,Low-income countries
 Afghanistan,AFG,1989,Low-income countries
