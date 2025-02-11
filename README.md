@@ -9,8 +9,11 @@ This repository contains the work for the **E-Coders SAS Curiosity Cup** project
 ├── LICENSE                     # License for the project.
 ├── README.md                   # This readme file.
 ├── requirements.txt            # List of Python dependencies required for the project.
+├── Work_Log
 
 ├── datasets
+|   |── Merged_data
+|   |   └── Merged_dataset      # merged overall dataset and affected by disaster vs GDP dataset
 │   ├── Cleaned_data            # Cleaned data used for analysis.
 │   │   └── Clean_Data_info.txt # Description of the cleaned data.
 │   ├── external_sources        # Data sourced from external APIs.
